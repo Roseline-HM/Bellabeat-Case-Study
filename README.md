@@ -5,8 +5,7 @@
 * **Interactive Dashboard (Tableau Public):** [Bellabeat Case Study Dashboard on Tableau Public](https://public.tableau.com:9443/views/BeallabeatXaseStudyActivitySedentaryTimeSleepPatterns/BellabeatCaseStudyActivitySedentaryTimeSleepPatterns?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * **Kaggle Notebook:** [Bellabeat Case Study Notebook on Kaggle](https://www.kaggle.com/code/roselinee/bellabeat-case-study)
 * **Kaggle Writeup:** [Bellabeat Case Study Writeup on Kaggle](https://kaggle.com/writeups/roselinee/bellabeat-case-study-activity-sedentary-time-and-s)
-* **Open in Google Colab:** `https://colab.research.google.com/github/Roseline-HM/Bellabeat-Case-Study/blob/main/<YOUR_NOTEBOOK_FILENAME>.ipynb`
-
+  
 ## Overview
 This repository presents the **Bellabeat** case study following the six-phase data analysis process (**Ask, Prepare, Process, Analyze, Share, Act**) using public **FitBit Fitness Tracker Data** (`Fitabase Data 4.12.16-5.12.16`, covering 31 days from April 12 to May 12, 2016) under a CC0: Public Domain license[cite: 1]. Insights are focused on the **Bellabeat app** and **Bellabeat membership**[cite: 1].
 
